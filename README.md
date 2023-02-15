@@ -3,6 +3,6 @@
 All the necessary files and documents collected for the Intermediate Project of the Edrivetour Erasmus plus programme and the according IEEE paper published on the
 7th International Workshop on Microsystems and presented at Dec 14, 2022.
 
-The Intermediate project was a necessary part for the certification process of the Edrivetour Erasmus plus programme and demanded the creation of two OpenSpace3D augmented reality apps plus the 3D modelling of two different vehicles and the collection of their technical data and specifications and the writing of two academic papers. 
+The Intermediate project was a necessary part for the certification process of the Edrivetour programme and that is why two OpenSpace3D augmented reality apps were created alongside the 3D modelling of two different vehicles with all the relevant technical data and specifications needed for the writing of the academic paper. 
 
-In order to provide transparency of our work in our academic papers we submit all relevant files on this repository. Also someone can download the workshop proceedings along with the paper at this link: http://microengineering.iem.ihu.gr/WoMGREECE2022/2022_WOM_Proceedings.pdf
+Anyone interested in the actual IEEE paper can download the workshop proceedings at this link: http://microengineering.iem.ihu.gr/WoMGREECE2022/2022_WOM_Proceedings.pdf
