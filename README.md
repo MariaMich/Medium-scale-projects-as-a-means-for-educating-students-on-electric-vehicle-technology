@@ -28,16 +28,16 @@ using an Arduino Uno microcontroller as a potentiometer for throttle output and 
 
 ![circuit showing an arduino uno, an lcd screen and a potentiometer. These components were used with an Open Space 3D application](https://csg.tinkercad.com/things/hm3kED8o67O/t725.png?rev=1663770413038000000&s=&v=1&type=circuits)
 
-## References
-[1] Miromax Empowering Solutions, Available: https://www.miromax.lt/en/
-[2] Erasmus Plus KA2 GA 612522-EPP-1-2019-1-EL-EPPKA2-KA E-DRIVETOUR: Beyond the border of electric vehicles: an advanced interactive course Available: https://www.EDRIVETOUR.eu/
-[3] Autodesk Tinkercad, Available: https://www.tinkercad.com/
-[4] V. Karidas and G. Kontozisis, Design and  Construction of tricycle with
-pedal assist. Diploma Thesis, Alexander TEI of Thessaloniki, Sept. 2013.
-[5] OpenSpace3D Open Source Platform for 3D Environments. Available:
-https://www.openspace3d.com/ Accessed: 8/5/2022
-[6] T. Anagnostaki, TS1.12 Intermediate Project
-OpenSpace3D Computer Lab notes Accessed: 21/09/2022
-[7] Toyota UK Media Site Toyota Yaris Hybrid Technical Specifications.
-Available:
-https://media.toyota.co.uk/wpcontent/uploads/sites/5/pdf/210713M-Yaris-Tech-Spec.pdf
+1. Miromax Empowering Solutions, Available:
+    https://www.miromax.lt/en/
+ 2. Erasmus Plus KA2 GA 612522-EPP-1-2019-1-EL-EPPKA2-KA E-DRIVETOUR: Beyond the border of
+        electric vehicles: an advanced interactive course.  Available: https://www.EDRIVETOUR.eu/ 
+ 3. Autodesk Tinkercad, Available:           https://www.tinkercad.com/
+ 4. V. Karidas and G. Kontozisis, Design
+                and  Construction of tricycle with pedal assist. Diploma Thesis,
+                Alexander TEI of Thessaloniki, Sept. 2013.
+ 5. OpenSpace3D Open Source Platform for 3D Environments. Available:            https://www.openspace3d.com/ Accessed: 8/5/2022
+ 6. T. Anagnostaki, TS1.12 Intermediate Project OpenSpace3D Computer
+    Lab notes Accessed: 21/09/2022
+ 7. Toyota UK Media Site Toyota Yaris Hybrid Technical Specifications. Available:
+        https://media.toyota.co.uk/wpcontent/uploads/sites/5/pdf/210713M-Yaris-Tech-Spec.pdf
